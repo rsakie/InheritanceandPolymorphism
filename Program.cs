@@ -25,6 +25,9 @@ namespace InheritanceandPolymorphism
             plane1.Move();
             plane1.Move();
             Console.WriteLine("Aircraft " + plane1.GetDistanceTraveled());
+
+            
+
         }
 
 
