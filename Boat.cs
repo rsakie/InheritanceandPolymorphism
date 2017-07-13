@@ -18,7 +18,10 @@ namespace InheritanceandPolymorphism
             this.movementSpeed = movementSpeed;
             this.waterDrag = waterDrag;
         }
+        public Boat()
+        {
 
+        }
         public override void Move()
         {
             distanceTraveled += movementSpeed * waterDrag;

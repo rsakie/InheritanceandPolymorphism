@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InheritanceandPolymorphism
 {
-    class Plane
+    class Jetski : Boat
     {
     }
 }
